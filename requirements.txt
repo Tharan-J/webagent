@@ -1,0 +1,7 @@
+playwright==1.44.0
+beautifulsoup4==4.12.3
+langchain-google-genai==1.0.6
+langchain-core==0.2.9
+python-dotenv==1.0.1
+pydantic>=2.9.0
+lxml==5.2.2
